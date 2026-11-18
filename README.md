@@ -222,7 +222,4 @@ Settings in `build_payload()` and at the top of `text_generation.py`:
 - [ ] Simple web UI with Streamlit
 - [ ] Unit tests with a mocked Bedrock client
 
----
 
-## License
-Add a license of your choice (e.g., MIT) before publishing.
